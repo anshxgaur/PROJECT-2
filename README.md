@@ -12,9 +12,9 @@ This project involves extracting, analyzing, and visualizing historical stock an
 - Jupyter Notebook for development and documentation
 
 ## 📁 Project Structure
-- `Question 1`: Extract Tesla stock data using `yfinance`
-- `Question 2`: Scrape Tesla revenue data from Macrotrends
-- `Question 3`: Extract GameStop stock data using `yfinance`
+-Question 1`: Extract Tesla stock data using `yfinance`
+-Question 2`: Scrape Tesla revenue data from Macrotrends
+-Question 3`: Extract GameStop stock data using `yfinance`
 - `Question 4`: Scrape GameStop revenue data from Macrotrends
 - `Question 5`: Plot Tesla stock graph using `make_graph` function
 - `Question 6`: Plot GameStop stock graph using `make_graph` function
