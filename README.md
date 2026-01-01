@@ -36,7 +36,7 @@ Screenshots of `.head()`, `.tail()`, and dashboard plots are included in the not
 ## 🧹 Notes ----
 - All data is sourced from public APIs and websites.
 - Code is modularized for clarity and reusability.
-- Markdown cells are included to explain each step.
+- Markdown cells are included to explain each steps.
 
 
 
