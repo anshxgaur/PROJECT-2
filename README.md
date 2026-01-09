@@ -33,7 +33,7 @@ Screenshots of `.head()`, `.tail()`, and dashboard plots are included in the not
 > Replace this with your public GitHub or Watson Studio URL  
 > Example: `https://github.com/yourusername/tesla-gme-dashboard/blob/main/project1.ipynb`
 
-## 🧹 Notes ------
+## 🧹 Notes -----
 - All data is sourced from public APIs and websites.
 - Code is modularized for clarity and reusability.
 - Markdown cells are included to explain each steps.
