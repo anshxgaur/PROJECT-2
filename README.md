@@ -9,7 +9,7 @@ This project involves extracting, analyzing, and visualizing historical stock an
 - `requests` + `BeautifulSoup` for web scraping revenue data  
 - `pandas` for data manipulation  
 - `matplotlib` for data visualization  
-- Jupyter Notebook for development and documentations
+- Jupyter Notebook for development and documentation
 
 ## 📁 Project Structure
 -Question 1`: Extract Tesla stock data using `yfinance`
