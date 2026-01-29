@@ -3,7 +3,7 @@
 ## 🧠 Project Overview
 This project involves extracting, analyzing, and visualizing historical stock and revenue data for **Tesla (TSLA)** and **GameStop (GME)** using Python. The goal is to build a dual-axis dashboard that compares stock price trends with quarterly revenue data.
 
-## 📦 Technologies Useds
+## 📦 Technologies Used
 - Python 3.x  
 - `yfinance` for stock data extraction  
 - `requests` + `BeautifulSoup` for web scraping revenue data  
