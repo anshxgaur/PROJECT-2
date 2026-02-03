@@ -1,4 +1,4 @@
-# 📊 Python Project for Data Science: Tesla & GameStop Stock/Revenue Dashboard
+# 📊 Python Project for Data Science: Tesla & GameStop Stock/Revenue Dashboards
 
 ## 🧠 Project Overview
 This project involves extracting, analyzing, and visualizing historical stock and revenue data for **Tesla (TSLA)** and **GameStop (GME)** using Python. The goal is to build a dual-axis dashboard that compares stock price trends with quarterly revenue data.
