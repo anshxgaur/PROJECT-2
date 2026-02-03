@@ -6,7 +6,7 @@ This project involves extracting, analyzing, and visualizing historical stock an
 ## 📦 Technologies Used
 - Python 3.x  
 - `yfinance` for stock data extraction  
-- `requests` + `BeautifulSoup` for web scraping revenue datass
+- `requests` + `BeautifulSoup` for web scraping revenue datas
 - `pandas` for data manipulation  
 - `matplotlib` for data visualization  
 - Jupyter Notebook for development and documentation
